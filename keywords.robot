@@ -25,4 +25,4 @@ gen qrcode wifi
 Check QR code
     Page Should Contain Element    qrcode
 ปิด browser
-    Close Browser 
+    Close Browser

@@ -6,4 +6,4 @@ Test Teardown    ปิด browser
 
 
 *** Test Cases ***      SSID            KEY   
-Generate QRcode Wifi    ddddd           123456    
+Generate QRcode Wifi    ddddd           123456
